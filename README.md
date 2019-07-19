@@ -1,3 +1,6 @@
+
+Русификатор для Textual 7.
+------
 Russian Language main manu, to your Textual 7.
 Copy 1 directory to other directory, and replace 1 file in it, and enjoy russian main menu. 
 
@@ -10,8 +13,7 @@ The main language of a system has to be RU. Just unpack "https://github.com/tomf
 
 Основной язык системы должен быть русским. Просто распакуйте "https://github.com/tomfarrium/Textual/blob/master/ru.lproj.zip" в "//Application/Textual 7 ⁩/⁨ Contents ⁩/⁨ Resources/" и перезагрузите программу.
 
-
-Русификатор для Textual 7.
 ------
+
 
 Перевод сделан Меренковым Михаилом в 2019м году.
